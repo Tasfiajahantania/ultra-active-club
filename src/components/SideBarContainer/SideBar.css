@@ -1,0 +1,113 @@
+.side-bar h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  color: rgb(4, 18, 65);
+}
+
+.user-profile {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.user-profile img {
+  width: 60px;
+  height: 60px;
+  object-fit: contain;
+  border: 2px solid rgb(209, 208, 208);
+  border-radius: 50%;
+}
+
+.user-profile h3,
+p {
+  margin: 0;
+}
+
+.profile-details {
+  display: flex;
+  justify-content: space-around;
+  color: gray;
+  padding: 8px 2px;
+  margin-top: 10px;
+  border-radius: 10px;
+  background: #f2f4fa;
+}
+
+.profile-details span {
+  background-color: white;
+  padding: 5px;
+  border-radius: 10px;
+}
+
+.break-options {
+  display: flex;
+  justify-content: space-between;
+  background: #f2f4fa;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.break-options li {
+  list-style-type: none;
+  padding: 10px;
+  background-color: white;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.break-options li:hover {
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+  background-color: rgb(58, 58, 233);
+  color: white;
+}
+
+.gray {
+  color: rgb(94, 92, 92);
+}
+
+.exercise-details .duration {
+  display: flex;
+  width: 90%;
+  margin: 10px auto;
+  justify-content: space-between;
+  background-color: #f2f4fa;
+  padding: 12px;
+  border-radius: 8px;
+}
+
+.activity-completed {
+  background-color: #0000ff;
+  color: white;
+  font-weight: 800;
+  padding: 8px 0;
+  margin-top: 30px;
+  text-align: center;
+  border-radius: 5px;
+  box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px,
+    rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+  cursor: pointer;
+}
+
+.activity-completed h1 {
+  margin: 0;
+}
+
+/* tablet device responsiveness*/
+@media screen and (min-width: 721px) and (max-width: 1250px) {
+  .user-profile {
+    flex-direction: column;
+  }
+
+  .profile-details {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .profile-details span {
+    margin-top: 5px;
+    padding-left: 15px;
+  }
+}

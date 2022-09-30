@@ -1,0 +1,28 @@
+nav {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  background-color: #060deb;
+  padding-left: 10%;
+}
+
+nav img {
+  width: 80px;
+  object-fit: contain;
+}
+
+nav h3 {
+  color: #ffffff;
+  font-size: 1.8rem;
+  margin: 0;
+}
+
+@media screen and (max-width: 720px) {
+  nav h3 {
+    font-size: 1.2rem;
+  }
+
+  nav img {
+    width: 55px;
+  }
+}

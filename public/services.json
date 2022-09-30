@@ -1,0 +1,86 @@
+[
+  {
+    "index": 0,
+    "picture": "https://images.unsplash.com/photo-1594737626072-90dc274bc2bd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxzZWFyY2h8OHx8ZXhlcmNpc2V8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=80",
+    "name": "Bar Lift",
+    "duration": 25,
+    "button": "Add to list"
+  },
+  {
+    "index": 1,
+    "picture": "https://images.unsplash.com/photo-1591258370814-01609b341790?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "name": "Curly Barbel Lift",
+    "duration": 45,
+    "button": "Add to list"
+  },
+  {
+    "index": 2,
+    "picture": "https://images.unsplash.com/photo-1541534741688-6078c6bfb5c5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80",
+    "name": "Cycling",
+    "duration": 70,
+    "button": "Add to list"
+  },
+  {
+    "index": 3,
+    "picture": "https://images.unsplash.com/photo-1600881333168-2ef49b341f30?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "name": "Fields Mcmahon",
+    "duration": 80,
+    "button": "Add to list"
+  },
+  {
+    "index": 4,
+    "picture": "https://images.unsplash.com/photo-1616279967983-ec413476e824?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=852&q=80",
+    "name": "Dead Lift",
+    "duration": 30,
+    "button": "Add to list"
+  },
+  {
+    "index": 5,
+    "picture": "https://images.unsplash.com/photo-1590556409324-aa1d726e5c3c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "name": "Dumbell",
+    "duration": 35,
+    "button": "Add to list"
+  },
+  {
+    "index": 6,
+    "picture": "https://images.unsplash.com/photo-1616279969856-759f316a5ac1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=465&q=80",
+    "name": "Squat",
+    "duration": 40,
+    "button": "Add to list"
+  },
+  {
+    "index": 7,
+    "picture": "https://images.unsplash.com/photo-1616279968481-f8717a710ef6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=465&q=80",
+    "name": "Bicep Pump",
+    "duration": 35,
+    "button": "Add to list"
+  },
+  {
+    "index": 8,
+    "picture": "https://images.unsplash.com/photo-1592967547619-491e36f79e7d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "name": "Abs",
+    "duration": 23,
+    "button": "Add to list"
+  },
+  {
+    "index": 9,
+    "picture": "https://images.unsplash.com/photo-1594269807754-7b7926246d65?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "name": "Tricep",
+    "duration": 28,
+    "button": "Add to list"
+  },
+  {
+    "index": 10,
+    "picture": "https://images.unsplash.com/photo-1591504771093-24cf5e930a00?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "name": "Chest",
+    "duration": 22,
+    "button": "Add to list"
+  },
+  {
+    "index": 11,
+    "picture": "https://images.unsplash.com/photo-1617209399013-f2b9354b961f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "name": "Calves",
+    "duration": 120,
+    "button": "Add to list"
+  }
+]
