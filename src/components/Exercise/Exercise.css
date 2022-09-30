@@ -16,7 +16,7 @@
     width: 180px;
     height: 180px;
     object-fit: cover;
-    border: 2px solid gray;
+    border: 2px solid rgb(125, 124, 124);
     border-radius: 10px;
     display: block;
     margin: 10px auto;
@@ -34,7 +34,7 @@
 }
 
 .exercise small {
-    color: rgba(13, 49, 116, 0.514);
+    color: rgba(15, 53, 123, 0.514);
     font-weight: 600;
     margin-right: 10px;
     font-size: 1rem;
